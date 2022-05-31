@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { add2 } from "../../packages/core/src/index";
+import { add2 } from "@dup4/starter-pnpm-workspace-core";
 
 describe("should", () => {
   it("add2", () => {
